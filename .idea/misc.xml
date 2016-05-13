@@ -20,6 +20,8 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
@@ -39,4 +41,5 @@
       </state>
     </states>
   </component>
+>>>>>>> origin/master
 </project>
